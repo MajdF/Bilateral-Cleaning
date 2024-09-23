@@ -1,6 +1,3 @@
-# Majd Farah, 316139849
-# Cristian Alam, 209062900
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
