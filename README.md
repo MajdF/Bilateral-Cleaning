@@ -1,3 +1,3 @@
 Name: Majd
 
-[Click to view video](media_task1/Right_Click.mp4)
+[Click to view video](Right_Click.mp4)
