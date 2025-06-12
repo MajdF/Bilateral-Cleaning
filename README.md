@@ -1,3 +1,2 @@
-Name: Majd
-
+Image Processing Course Homework
 
